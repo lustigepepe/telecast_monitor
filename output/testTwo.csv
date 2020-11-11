@@ -1,0 +1,5 @@
+ContentIndicator|Id|ChannelNo|StartTime|Duration|Title|Genre|Owner|LinkedId
+P|1234|101|20201001020000|1800|Early Morning News|News|BBC|N/A
+C|777|101|20201001021500|30|Ford Sports Ad|Spot|Ford|1234
+P|4356|103|20201001100000|3600|HollyOaks|Drama|ITV|N/A
+C|778|103|20201001111500|30|Nivea Beauty Cream|Spot|Unilever|4356
